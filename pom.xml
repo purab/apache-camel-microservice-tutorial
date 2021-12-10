@@ -11,7 +11,7 @@
 	<groupId>in.purabtech</groupId>
 	<artifactId>camel-microservice-a</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>camel-microservice-a</name>
+	<name>apache-camel-microservice-tutorial</name>
 	<description>Spring Boot for Camel</description>
 	<properties>
 		<java.version>11</java.version>
