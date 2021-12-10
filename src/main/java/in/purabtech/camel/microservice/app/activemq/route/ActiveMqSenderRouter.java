@@ -3,7 +3,7 @@ package in.purabtech.camel.microservice.app.activemq.route;
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class ActiveMqSenderRouter extends RouteBuilder {
 
 	@Override
